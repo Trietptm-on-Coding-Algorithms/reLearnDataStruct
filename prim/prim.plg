@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: prim - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP8D8C.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/prim.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\All_Code\VC++6.0\reLearnStruct\prim\prim.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP8D8C.tmp" 
+<h3>Output Window</h3>
+Compiling...
+prim.cpp
+D:\All_Code\VC++6.0\reLearnStruct\prim\prim.cpp(84) : error C4716: 'Graph::prim' : must return a value
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+prim.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
